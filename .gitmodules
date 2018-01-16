@@ -1,0 +1,6 @@
+[submodule "nba\\bulls\\"]
+	path = nba\\bulls\\
+	url = https://github.com/yy-king/bulls.git
+[submodule "nba\\lakers\\"]
+	path = nba\\lakers\\
+	url = https://github.com/yy-king/lakers.git
